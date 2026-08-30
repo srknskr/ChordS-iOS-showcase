@@ -10,7 +10,11 @@ This public repository is a documentation-only showcase. Production source code,
 
 ## Screenshots
 
-> Screenshots will be added here.
+<p align="center">
+  <img src="./IMG_0662.png" width="220" alt="Create Loop screen before adding chords" />
+  <img src="./IMG_0663.png" width="220" alt="Create Loop screen with chord timeline" />
+  <img src="./IMG_0978.png" width="220" alt="Equalizer screen" />
+</p>
 
 ## Highlights
 
@@ -58,4 +62,4 @@ The application separates SwiftUI presentation from view models, content models,
 
 ## Repository scope
 
-Only showcase documentation is public here. No production Swift source, audio files, Firebase configuration, signing certificates, provisioning profiles, API keys, or App Store Connect credentials are included.
+Only showcase documentation and product screenshots are public here. No production Swift source, Firebase configuration, signing certificates, provisioning profiles, API keys, App Store Connect credentials, or private production media are included.
