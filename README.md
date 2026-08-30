@@ -4,9 +4,7 @@ A music and rhythm companion for browsing, practicing, and playing chord- and lo
 
 ## About
 
-ChordS brings musical content, loop playback, tempo control, playlists, repeat practice, and an equalizer-oriented listening experience into an iOS application. The private project is organized around shared SwiftUI views, view models, models, helpers, and services, with localized resources and a shared audio-engine layer.
-
-This public repository is a documentation-only showcase. Production source code, audio assets, Firebase configuration, signing material, store credentials, and private media remain private.
+ChordS for iOS focuses on building musical ideas one choice at a time. A chord or rhythm can become a repeatable loop, a saved practice session, or part of a larger playlist, with tempo, playback, and equalizer-oriented controls supporting the listening experience. The private project keeps this flow in shared SwiftUI views, view models, models, helpers, services, and audio-engine code.
 
 ## Screenshots
 
