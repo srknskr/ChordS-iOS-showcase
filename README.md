@@ -2,6 +2,11 @@
 
 A music and rhythm companion for browsing, practicing, and playing chord- and loop-oriented content.
 
+<p>
+<a href="https://apps.apple.com/us/app/chords-chord-rhythm-loops/id6770242419"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg" height="28" alt="Download on the App Store"></a>
+<a href="https://play.google.com/store/apps/details?id=com.serkanseker.chords"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="28" alt="Get it on Google Play"></a>
+</p>
+
 ## About
 
 ChordS for iOS focuses on building musical ideas one choice at a time. A chord or rhythm can become a repeatable loop, a saved practice session, or part of a larger playlist, with tempo, playback, and equalizer-oriented controls supporting the listening experience. The private project keeps this flow in shared SwiftUI views, view models, models, helpers, services, and audio-engine code.
